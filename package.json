@@ -1,0 +1,16 @@
+{
+  "name": "bunker-siege",
+  "version": "1.0.0",
+  "description": "Bunker Siege: a 3D wave shooter with public co-op rooms",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
